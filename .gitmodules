@@ -4,3 +4,6 @@
 [submodule "WiFi_Kit_series"]
 	path = Heltec/WiFi_Kit_series
 	url = https://github.com/Heltec-Aaron-Lee/WiFi_Kit_series
+[submodule "Heltec/WiFi_Kit_series"]
+	path = Heltec/WiFi_Kit_series
+	url = ssh://gei@queen.lan.hm.xn--8cab.de/volume2/git/Arduino/Aaron_Lee_WiFi_Kit_series
